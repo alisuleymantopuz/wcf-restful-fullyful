@@ -1,0 +1,15 @@
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\NorthwindApplication.Repository.dll.config
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\NorthwindApplication.Repository.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\NorthwindApplication.Repository.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\EntityFramework.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\LinqKit.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\NorthwindApplication.Orm.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\NorthwindApplication.Orm.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\EntityFramework.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\LinqKit.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\bin\Debug\LinqKit.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\obj\Debug\NorthwindApplication.Repository.csprojResolveAssemblyReference.cache
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\obj\Debug\NorthwindApplication.Repository.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Repository\obj\Debug\NorthwindApplication.Repository.pdb

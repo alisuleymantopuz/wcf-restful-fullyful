@@ -1,0 +1,17 @@
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Services.Contracts.dll.config
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Services.Contracts.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Services.Contracts.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\EntityFramework.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Orm.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Repository.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\LinqKit.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Orm.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\NorthwindApplication.Repository.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\EntityFramework.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\LinqKit.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\bin\Debug\LinqKit.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\obj\Debug\NorthwindApplication.Services.Contracts.csprojResolveAssemblyReference.cache
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\obj\Debug\NorthwindApplication.Services.Contracts.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Services.Contracts\obj\Debug\NorthwindApplication.Services.Contracts.pdb

@@ -1,0 +1,4 @@
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Communication\bin\Debug\NorthwindApplication.Communication.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Communication\bin\Debug\NorthwindApplication.Communication.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Communication\obj\Debug\NorthwindApplication.Communication.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Communication\obj\Debug\NorthwindApplication.Communication.pdb

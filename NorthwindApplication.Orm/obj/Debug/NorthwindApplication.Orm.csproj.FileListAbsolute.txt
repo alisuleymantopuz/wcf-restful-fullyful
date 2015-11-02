@@ -1,0 +1,9 @@
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\NorthwindApplication.Orm.dll.config
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\NorthwindApplication.Orm.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\NorthwindApplication.Orm.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\EntityFramework.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\EntityFramework.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\obj\Debug\NorthwindApplication.Orm.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindApplication\NorthwindApplication.Orm\obj\Debug\NorthwindApplication.Orm.pdb

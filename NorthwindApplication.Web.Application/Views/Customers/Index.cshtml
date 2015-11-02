@@ -1,0 +1,21 @@
+﻿@using MvcContrib.UI.Grid
+
+@model IEnumerable<NorthwindApplication.Services.Contracts.Data.CustomerInfo>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<h2>Customers</h2>
+
+@Html.Grid(Model).Columns(x =>
+{
+    x.For(c => c.CustomerId).Named("CUSTOMER CODE");
+    x.For(c => c.CompanyName).Named("COMPANY NAME");
+    x.For(c => c.Address).Named("ADDRESS");
+    x.For(c => Html.ActionLink("Detail", "Detail", new { customerId = c.CustomerId })).Named(string.Empty).Encode(false);
+});
+
+@*https://mvccontrib.codeplex.com/wikipage?title=Grid&referringTitle=Documentation*@

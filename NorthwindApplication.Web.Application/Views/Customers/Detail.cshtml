@@ -1,0 +1,15 @@
+﻿@using System.Configuration
+@using System.ServiceModel.Security
+@using NorthwindApplication.Web.Application.ServiceDefinitions
+@using MvcContrib.UI.Grid
+
+@model NorthwindApplication.Services.Contracts.Data.CustomerInfo
+
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+<h2>Customer Detail</h2>
+
+@Html.DisplayForModel(Model)
